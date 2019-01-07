@@ -1,0 +1,6 @@
+usr/local/bin/masternodescheguevara-qt usr/bin
+share/pixmaps/masternodescheguevara32.xpm usr/share/pixmaps
+share/pixmaps/masternodescheguevara16.xpm usr/share/pixmaps
+share/pixmaps/masternodescheguevara128.png usr/share/pixmaps
+debian/masternodescheguevara-qt.desktop usr/share/applications
+debian/masternodescheguevara-qt.protocol usr/share/kde4/services/

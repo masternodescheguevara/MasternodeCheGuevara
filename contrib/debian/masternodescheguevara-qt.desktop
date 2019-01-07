@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=masternodescheguevara Core
+Comment=masternodescheguevara P2P Cryptocurrency
+Comment[de]=Verbinde mit dem masternodescheguevara peer-to-peer Netzwerk
+Comment[fr]=masternodescheguevara, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=masternodescheguevara, eşten eşe kriptografik sanal para birimi
+Exec=masternodescheguevara-qt %u
+Terminal=false
+Type=Application
+Icon=masternodescheguevara128
+MimeType=x-scheme-handler/masternodescheguevara;
+Categories=Office;Finance;
